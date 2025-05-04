@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nityatripathi019&label=Profile%20views&color=0e75b6&style=flat" alt="nityatripathi019" /> </p>
 
-- 🔭 I’ve worked on [It skill development](https://github.com/nityatripathi019/IT_Skill_Development)
+- 🔭 I’ve worked on [Wanderlust](https://github.com/nityatripathi019/IT_Skill_Development)
 
 - 🌱 I’m currently learning **React.js and MERN stack**
 
